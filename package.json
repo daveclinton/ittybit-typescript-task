@@ -13,10 +13,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/node": "^24.5.2",
     "tsx": "^4.7.1",
     "typescript": "^5.9.2"
   },
   "dependencies": {
-    "@ittybit/sdk": "^1.0.0"
+    "@ittybit/sdk": "^1.0.0",
+    "dotenv": "^17.2.2"
   }
 }
