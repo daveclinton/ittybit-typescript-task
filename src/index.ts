@@ -1,4 +1,5 @@
 import { IttybitClient } from "@ittybit/sdk";
+import "dotenv/config";
 
 console.log("Testing Ittybit SDK...");
 
